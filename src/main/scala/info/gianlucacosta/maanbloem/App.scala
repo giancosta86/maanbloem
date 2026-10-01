@@ -4,7 +4,7 @@ package info.gianlucacosta.maanbloem
 import javafx.stage.Stage
 
 import info.gianlucacosta.helios.apps.{AppInfo, AuroraAppInfo}
-import info.gianlucacosta.helios.fx.apps.{AppBase, AppMain, SplashStage}
+import info.gianlucacosta.helios.fx.application.{AppBase, AppMain, SplashStage}
 import info.gianlucacosta.maanbloem.icons.MainIcon
 import info.gianlucacosta.maanbloem.moondeploy.MoonSettings
 import info.gianlucacosta.maanbloem.moondeploy.descriptors.{DescriptorFinder, DescriptorParser}

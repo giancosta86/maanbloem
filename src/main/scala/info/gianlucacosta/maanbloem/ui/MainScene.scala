@@ -8,7 +8,7 @@ import javafx.collections.FXCollections
 import info.gianlucacosta.helios.apps.AppInfo
 import info.gianlucacosta.helios.desktop.DesktopUtils
 import info.gianlucacosta.helios.files.FileUtils
-import info.gianlucacosta.helios.fx.about.AboutBox
+import info.gianlucacosta.helios.fx.dialogs.about.AboutBox
 import info.gianlucacosta.helios.fx.dialogs.{Alerts, InputDialogs}
 import info.gianlucacosta.maanbloem.App
 import info.gianlucacosta.maanbloem.moondeploy.MoonSettings
